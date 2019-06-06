@@ -1,0 +1,5 @@
+packages/,
+*/App_Data/,
+*.lock,
+*.mdf
+/.vs/censusApp/v15/Server/sqlite3/db.lock

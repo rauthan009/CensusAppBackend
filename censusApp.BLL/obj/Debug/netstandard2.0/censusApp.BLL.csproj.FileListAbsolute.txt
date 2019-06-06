@@ -1,0 +1,16 @@
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\bin\Debug\netstandard2.0\censusApp.BLL.deps.json
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\bin\Debug\netstandard2.0\censusApp.BLL.dll
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\bin\Debug\netstandard2.0\censusApp.BLL.pdb
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\bin\Debug\netstandard2.0\censusApp.Bol.dll
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\bin\Debug\netstandard2.0\censusApp.DAL.dll
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\bin\Debug\netstandard2.0\censusApp.Bol.pdb
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\bin\Debug\netstandard2.0\censusApp.Bol.dll.config
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\bin\Debug\netstandard2.0\censusApp.DAL.pdb
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\bin\Debug\netstandard2.0\censusApp.DAL.dll.config
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\obj\Debug\netstandard2.0\censusApp.BLL.csprojAssemblyReference.cache
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\obj\Debug\netstandard2.0\censusApp.BLL.csproj.CoreCompileInputs.cache
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\obj\Debug\netstandard2.0\censusApp.BLL.AssemblyInfoInputs.cache
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\obj\Debug\netstandard2.0\censusApp.BLL.AssemblyInfo.cs
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\obj\Debug\netstandard2.0\censusApp.BLL.csproj.CopyComplete
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\obj\Debug\netstandard2.0\censusApp.BLL.dll
+C:\Users\saurabhrauthan\Desktop\Assignments\FinalTest\censusApp\censusApp.BLL\obj\Debug\netstandard2.0\censusApp.BLL.pdb
